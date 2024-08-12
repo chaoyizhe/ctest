@@ -24,6 +24,12 @@ int main()
 	{
 		printf("Ð´´úÂë%d\n", line);
 		line++;
+		if (line > 2000)
+		{
+			break;
+		}
+
+
 	}
 	if (line > 20000)
 	{
