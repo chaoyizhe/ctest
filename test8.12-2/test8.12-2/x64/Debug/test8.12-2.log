@@ -1,0 +1,6 @@
+﻿  test.c
+D:\c语言2024\code\test8.12-2\test8.12-2\test.c(38,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\c语言2024\code\test8.12-2\test8.12-2\test.c(39,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\c语言2024\code\test8.12-2\test8.12-2\test.c(40,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\c语言2024\code\test8.12-2\test8.12-2\test.c(41,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  test8.12-2.vcxproj -> D:\c语言2024\code\test8.12-2\x64\Debug\test8.12-2.exe
