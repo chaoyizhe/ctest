@@ -3,11 +3,8 @@
   "WorkspaceRootPath": "D:\\c\u8BED\u8A002024\\code\\test8.14\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{269DE4F5-1762-4B28-918E-990BE0164D56}|test8.14\\test8.14.vcxproj|D:\\c\u8BED\u8A002024\\code\\test8.14\\test8.14\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{269DE4F5-1762-4B28-918E-990BE0164D56}|test8.14\\test8.14.vcxproj|solutionrelative:test8.14\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{83F0BA38-340C-4177-A9B0-23EB9052E549}|test8.14\\test8.14.vcxproj|D:\\c\u8BED\u8A002024\\code\\test8.14\\test8.14\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83F0BA38-340C-4177-A9B0-23EB9052E549}|test8.14\\test8.14.vcxproj|solutionrelative:test8.14\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,23 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "stdio.h",
-              "DocumentMoniker": "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "ToolTip": "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "RelativeToolTip": "..\\..\\..\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "ViewState": "AQIAABcEAAAAAAAAAAAqwCsEAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-14T12:19:14.842Z"
             },
             {
               "$type": "Document",
@@ -43,9 +28,9 @@
               "RelativeDocumentMoniker": "test8.14\\test.c",
               "ToolTip": "D:\\c\u8BED\u8A002024\\code\\test8.14\\test8.14\\test.c",
               "RelativeToolTip": "test8.14\\test.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-14T00:01:54.96Z",
+              "WhenOpened": "2024-08-14T13:08:46.003Z",
               "EditorCaption": ""
             }
           ]
